@@ -1,0 +1,9 @@
+{
+  "documentDir": "./Documents",
+  "conversionDir": "./convertedDocs",
+  "max_file_size": "9000000",
+  "discovery_api_key": "",
+  "discovery_url": "",
+  "discovery_environment_id": "",
+  "discovery_collection_id": ""
+}
